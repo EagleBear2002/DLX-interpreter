@@ -1,0 +1,3 @@
+C:/Users/37756/Documents/NJU/2020Fall/Foundation of Computing System/DLX-interpreter/cmake-build-debug/CMakeFiles/DLX_interpreter.dir
+C:/Users/37756/Documents/NJU/2020Fall/Foundation of Computing System/DLX-interpreter/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/37756/Documents/NJU/2020Fall/Foundation of Computing System/DLX-interpreter/cmake-build-debug/CMakeFiles/rebuild_cache.dir
